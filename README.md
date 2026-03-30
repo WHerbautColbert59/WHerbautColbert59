@@ -5,7 +5,7 @@
 <p>
 <center>
     <a href="https://www.python.org/" target="_blank" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=FFE66E&logo=Python&logoColor=000000&label="></a>
-    <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=rgb(77, 77, 77)&logo=databricks&logoColor=FFFFFF&label="></a>
+    <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4D4D4D&logo=databricks&logoColor=FFFFFF&label="></a>
     <a href="https://www.c-language.org/" target="_blank" ><img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=A8B9CC&logo=C&logoColor=000000&label="></a>
 
 
